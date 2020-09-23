@@ -1,0 +1,11 @@
+.plans-heading{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 800;
+    font-size: 3rem;
+}
+
+.plans-desc{
+    font-family: monospace;
+    font-size: 1.5rem;
+    color: #758AA2;
+}

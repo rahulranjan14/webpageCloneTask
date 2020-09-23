@@ -1,0 +1,29 @@
+.backedtext{
+    font-family: monospace;
+    font-size: 1.7rem;
+    font-weight: 550;
+    
+}
+
+.companies{
+    margin-top: 40px;
+}
+
+.sequoia{
+    font-family: “Lucida Sans Typewriter”, “Lucida Console”, Monaco, “Bitstream Vera Sans Mono”, monospace;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+.polychain{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-variant: small-caps;
+    font-weight: 600;
+    font-size: 2rem;
+}
+
+.consensys{
+    font-family: “Lucida Console”, “Lucida Sans Typewriter”, Monaco, “Bitstream Vera Sans Mono”, monospace;
+    font-weight: 600;
+    font-size: 2rem;
+}

@@ -1,0 +1,103 @@
+.heroheading{
+    font-family: Georgia, serif;
+    font-size: 3.4rem;
+    font-weight: 600;
+    line-height: 150%;
+    margin-top: 125px;
+}
+
+.heroslogan{
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 1.3rem;
+    font-weight: 300;
+    color: #10A881;
+}
+
+.herocard{
+    border-radius: 10px;
+    margin-top: 50px;
+}
+
+.inputemail{
+    border: none;
+    border-collapse: collapse;
+}
+
+.inputemail:focus, input:focus{
+    outline: none;
+}
+
+.cardbtn{
+    background-color: black;
+    padding:10px 40px;
+    background-color: #3C40C6;
+	font-family:Arial;
+    font-size:15px;
+    font-weight: bold;
+    border-radius: 12px;
+    
+}
+
+.cardbtn{
+    box-shadow: none!important;
+}
+
+.cardbtn:active, .cardbtn:focus{
+    border: none!important;
+}
+
+
+.spotsleft{
+    font-family: Arial, Helvetica, sans-serif;
+    color:#10A881;
+    font-family: cursive;
+    font-weight: 400;
+    font-size: large;
+}
+
+.playstore{
+    background-color: #ffffff;
+    padding:15px 30px;
+    color: #10A881;
+    border: 2px solid #10A881;
+    border-radius: 10px;
+}
+.playstore:hover{
+    background-color: #10A881 ;
+    border:2px solid #10A881;
+}
+
+
+.playstore{
+    box-shadow: none!important;
+}
+
+.playstore:active, .playstore:focus{
+    border: none!important;
+}
+
+.appstore{
+    background-color: #ffffff;
+    padding:15px 30px;
+    color: #10A881;
+    border: 2px solid #10A881;
+    border-radius: 10px;
+}
+.appstore:hover{
+    background-color: #10A881;
+    border:2px solid #10A881;
+}
+
+.appstore{
+    box-shadow: none!important;
+}
+
+.appstore:active, .appstore:focus{
+    border: none!important;
+}
+
+
+.downloadapp{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #10A881;
+}

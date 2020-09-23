@@ -1,0 +1,78 @@
+
+
+.loginbtn {
+	background-color:#ffffff;
+	border-radius:8px;
+	border:3px solid  #3C40C6;
+	display:inline-block;
+	cursor:pointer;
+	color: #3C40C6;
+	font-family:Arial;
+	font-size:15px;
+	padding:5px 30px;
+	text-decoration:none;
+	font-weight: 600;
+	
+}
+.loginbtn:hover {
+	background-color: #3C40C6;
+}
+.loginbtn:active {
+	position:relative;
+	top:1px;
+}
+
+.loginbtn{
+    box-shadow: none!important;
+}
+
+.loginbtn:active, .loginbtn:focus{
+    border: none!important;
+}
+
+
+
+.signupbtn {
+	background-color:  #3C40C6;
+	border-radius:8px;
+	border:3px solid  #3C40C6;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	padding:5px 25px;
+	text-decoration:none;
+	font-weight: 600;
+}
+.signupbtn:hover {
+	background-color: #3C40C6;
+}
+.signupbtn:active {
+	position:relative;
+	top:1px;
+}
+
+.signupbtn{
+    box-shadow: none!important;
+}
+
+.signupbtn:active, .signupbtn:focus{
+    border: none!important;
+}
+
+
+.brandname{
+  font-family: "Lucida Console", Monaco, monospace;
+  font-weight: 900;
+  font-size: 30px;
+}
+
+.brandlogo{
+  font-size: xx-large;
+}
+
+.navbarscroll{
+	box-shadow: 0px 0px 8px #888888;
+	
+}

@@ -1,0 +1,31 @@
+.sectionmidtwo{
+    margin-top: 80px;
+}
+
+.startsaving{
+    color: blue;
+    font-family: “Lucida Sans Typewriter”, “Lucida Console”, Monaco, “Bitstream Vera Sans Mono”, monospace;
+    font-weight: 600;
+}
+
+.financial-goals{
+    font-family: Georgia, serif;
+    font-size: 3rem;
+    font-weight: 600;
+    margin-top: 20px;
+}
+
+.parasectwo{
+    font-family: Candara, Calibri, Segoe, “Segoe UI”, Optima, Arial, sans-serif;
+    font-size: 1.2rem;
+    margin-top: 20px;
+    color: #758AA2;
+}
+
+.numberimg{
+   height: 150%;
+   width: 150%;
+  margin-top: -200px;
+  margin-left: -100px;
+   filter: drop-shadow(0px 0px 8px  #2B2B52); 
+}
