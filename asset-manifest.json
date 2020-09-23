@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/webpageCloneTask/static/css/main.08042803.chunk.css",
+    "main.js": "/webpageCloneTask/static/js/main.e85b83fa.chunk.js",
+    "main.js.map": "/webpageCloneTask/static/js/main.e85b83fa.chunk.js.map",
+    "runtime-main.js": "/webpageCloneTask/static/js/runtime-main.24aadafc.js",
+    "runtime-main.js.map": "/webpageCloneTask/static/js/runtime-main.24aadafc.js.map",
+    "static/css/2.8aa5a7f8.chunk.css": "/webpageCloneTask/static/css/2.8aa5a7f8.chunk.css",
+    "static/js/2.5f0ba565.chunk.js": "/webpageCloneTask/static/js/2.5f0ba565.chunk.js",
+    "static/js/2.5f0ba565.chunk.js.map": "/webpageCloneTask/static/js/2.5f0ba565.chunk.js.map",
+    "index.html": "/webpageCloneTask/index.html",
+    "precache-manifest.d26805e5dcd175814167233164130739.js": "/webpageCloneTask/precache-manifest.d26805e5dcd175814167233164130739.js",
+    "service-worker.js": "/webpageCloneTask/service-worker.js",
+    "static/css/2.8aa5a7f8.chunk.css.map": "/webpageCloneTask/static/css/2.8aa5a7f8.chunk.css.map",
+    "static/css/main.08042803.chunk.css.map": "/webpageCloneTask/static/css/main.08042803.chunk.css.map",
+    "static/js/2.5f0ba565.chunk.js.LICENSE.txt": "/webpageCloneTask/static/js/2.5f0ba565.chunk.js.LICENSE.txt",
+    "static/media/credit.svg": "/webpageCloneTask/static/media/credit.4e1b6caf.svg",
+    "static/media/debit.svg": "/webpageCloneTask/static/media/debit.f8ff1e77.svg",
+    "static/media/debit2.svg": "/webpageCloneTask/static/media/debit2.47c52eb2.svg",
+    "static/media/debit3.svg": "/webpageCloneTask/static/media/debit3.dc0e09c1.svg",
+    "static/media/numberr.svg": "/webpageCloneTask/static/media/numberr.c7bf0efc.svg",
+    "static/media/phonecard.svg": "/webpageCloneTask/static/media/phonecard.3a85fa13.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24aadafc.js",
+    "static/css/2.8aa5a7f8.chunk.css",
+    "static/js/2.5f0ba565.chunk.js",
+    "static/css/main.08042803.chunk.css",
+    "static/js/main.e85b83fa.chunk.js"
+  ]
+}
